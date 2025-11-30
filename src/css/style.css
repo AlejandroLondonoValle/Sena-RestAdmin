@@ -1,5 +1,9 @@
 body {
-    background: #6F913D;
+    background: #ffffff;
+}
+
+.color-marca{
+    background-color: #6F913D;
 }
 
 .card {

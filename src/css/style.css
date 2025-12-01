@@ -1,21 +1,57 @@
 body {
-    background: #ffffff;
-}
-
-.color-marca{
-    background-color: #6F913D;
+    background-color: #f6f7f5;
 }
 
 .card {
-    border-radius: 12px;
+    border-radius: 14px;
 }
 
 .pagado {
-    color: #28a745;
+    color: #2ecc71;
     font-weight: bold;
 }
 
 .nopagado {
-    color: #dc3545;
+    color: #e74c3c;
     font-weight: bold;
+}
+
+.header {
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    border-bottom: 2px solid #6F913D;
+    padding: 0 12px;
+    position: relative;
+}
+
+.logo {
+    margin-top: 4.5rem;
+    width: 180px;
+    flex-shrink: 0;
+}
+
+.titulo {
+    flex: 1;
+    text-align: center;
+    font-size: 1.9rem;
+    font-weight: 800;
+    color: #6F913D;
+    margin-right: 70px;
+}
+
+@media (max-width: 576px) {
+    .header {
+        height: 85px;
+    }
+    .logo {
+        width: 100px;
+    }
+
+    .titulo {
+        font-size: 1.6rem;
+        margin-right: 100px;
+    }
 }

@@ -92,7 +92,7 @@ Puedes elegir una como logo oficial o usarlas en distintas partes de la interfaz
 
 ## 👨‍💻 Autor
 
-Desarrollado por **Luis Alejandro Londoño Valle**, aprendiz del SENA.  
+Desarrollado por **Luis Alejandro Londoño Valle**,**Alejandro Roque Morales**,**Jair Alvarez Alvarez** aprendices del SENA.  
 
 ---
 
